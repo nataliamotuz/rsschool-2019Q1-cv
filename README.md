@@ -1,2 +1,1 @@
-# rsschool-2019Q1-cv
-CV
+https://nataliamotuz.github.io/rsschool-2019Q1-cv/cv
