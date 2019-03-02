@@ -1,18 +1,16 @@
 # Natalia Motuz
 **_Junior Software Engineer_**
 
+**Adress:** Minsk, Belarus   
+**Email:** natalia.motuz@gmail.com   
+**Phone:** +375 29 3965969   
+**Skype:** ahienczyk
 
-
-Adress Minsk, Belarus 
-Email natalia.motuz 
-Phone +375 29 3969596 
-Skype ahienczyk
-
-## Summary
+## Summary of Qualifications 
 
 >I am in the earlier stage of my journey as a software developer, have a small yet delightful portfolio of launched projects, and I'am hungry to learn more.
 
-## Skills
+## Technical skills
 
 * HTML - 5/10
 * CSS - 4/10 
@@ -54,3 +52,5 @@ module.exports = function solveEquation(equation) {
 ## English skills
 
 I have successfully completed a 160-hours General English course at the **Intermediate level** in Streamline Language School.
+
+[![github account](assets/hub.png)](https://github.com/nataliamotuz)
