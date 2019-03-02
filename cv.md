@@ -1,4 +1,4 @@
-# Natalia Motuz
+# Natallia Motuz
 **_Junior Software Engineer_**
 
 **Adress:** Minsk, Belarus   
